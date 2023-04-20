@@ -1,0 +1,10 @@
+{
+    "type": "origins:particle",
+    "particle": "minecraft:electric_spark",
+    "frequency": 4,
+    "condition": {
+        "type": "origins:power_active",
+                "power": "vex:vexmodetoggle"
+        },
+        "hidden": true
+}

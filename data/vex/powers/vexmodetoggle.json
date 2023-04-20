@@ -1,0 +1,6 @@
+{
+    "type": "origins:toggle",
+    "active_by_default": false,
+    "name": "Vex Mode",
+    "description": "Pressing 'g' will enter vex mode, allowing you to fly and phase. However you are weaker and exhaust faster"
+}

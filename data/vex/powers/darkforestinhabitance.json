@@ -1,0 +1,22 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifiers": [
+        {
+            "attribute": "minecraft:generic.max_health",
+            "operation": "addition",
+            "value": 8
+        },
+        {
+            "attribute": "minecraft:generic.attack_damage",
+            "operation": "multiply_base",
+            "value": 0.15
+        }
+    ],
+    "tick_rate": 20,
+    "condition": {
+        "type": "origins:biome",
+        "biome": "minecraft:dark_forest"
+    },
+    "name": "Dark Forest Inhabitor",
+    "description": "you are more powerful in dark forest"
+}

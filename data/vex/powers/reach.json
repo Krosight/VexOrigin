@@ -1,0 +1,13 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "reach-entity-attributes:attack_range",
+        "operation": "addition",
+        "value": 4
+    },
+    "condition": {
+        "type": "origins:power_active",
+        "power": "vex:vexmodetoggle"
+    },
+    "hidden": true
+}

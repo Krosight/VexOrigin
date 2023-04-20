@@ -1,0 +1,8 @@
+{
+    "type": "origins:prevent_block_selection",
+    "condition": {
+        "type": "origins:power_active",
+        "power": "vex:vexmodetoggle"
+    },
+    "hidden": true
+}

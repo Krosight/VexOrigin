@@ -1,0 +1,8 @@
+{
+    "type": "origins:creative_flight",
+    "condition": {
+        "type": "origins:power_active",
+                "power": "vex:vexmodetoggle"
+        },
+        "hidden": true
+}

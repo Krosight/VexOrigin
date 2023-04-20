@@ -1,0 +1,12 @@
+{
+    "type": "origins:modify_air_speed",
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 2
+    },
+    "condition": {
+        "type": "origins:power_active",
+                "power": "vex:vexmodetoggle"
+        },
+        "hidden": true
+}

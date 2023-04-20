@@ -1,0 +1,10 @@
+{
+    "type": "origins:exhaust",
+    "interval": 50,
+    "exhaustion": 2.0,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "vex:vexmodetoggle"
+    },
+    "hidden": true
+}

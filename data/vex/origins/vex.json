@@ -1,0 +1,25 @@
+{
+	"powers": [
+		"vex:humanoid_health",
+		"vex:restrict_elytra",
+		"vex:no_insomnia",
+		"vex:illager",
+		"vex:vexmodetoggle",
+		"vex:phase",
+		"vex:flight",
+		"vex:vexparticle",
+		"vex:airspeed",
+		"vex:size",
+		"vex:vex_health",
+		"vex:preventblock",
+		"vex:vexhunger",
+		"vex:reach",
+		"vex:damage",
+		"vex:darkforestinhabitance"
+	],
+	"icon": "minecraft:gray_dye",
+	"order": 5,
+	"impact": 1,
+	"name": "Vex",
+	"description": "Vex from Minecraft"
+}
