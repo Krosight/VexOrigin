@@ -1,10 +1,10 @@
-# VexOrigin
+#VexOrigin
 Vex Origin for the Minecraft Origins Mod
 
 
 Origin Details
 + Vex Mode
-	# Action Key
+	//Action Key
 	+ 0.4 Blocks Tall
 	+ Can Phase Through Blocks
 	+ Does more damage
@@ -17,10 +17,10 @@ Origin Details
 + Illagers and Pillagers are Neutral
 + Dark Oak Forest Inhabitor
 	+ Stronger while in dark oak forest
-		# Vex Mode
+		//Vex Mode
 			+ Has Same Hunger Loss as Humanoid Form 
 			+ Has Same Health as Humanoid Form
-		# Humanoid Form
+		//Humanoid Form
 			+ Has more Health
 				+ 4 hearts more
 			+ Does more Damage
