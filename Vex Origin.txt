@@ -6,17 +6,14 @@ Planning
 + Vex Mode
 	# Action Key
 	+ 0.4 Blocks Tall
-		# Would have to be faster due to pehkui speed scale
 	+ Can Phase Through Blocks
 	+ Does more damage
 		+ 25% more damage
 	- Cant place or break blocks 
 	- less health
-		- 7 hearts
+		- 6 hearts
 	- loses hunger faster 
 		- 2 per 50 ticks
-	- Glow red when attacked
-		# Lasts 1 Second
 + Illagers and Pillagers are Neutral
 + Dark Oak Forest Inhabitor
 	+ Stronger while in dark oak forest
